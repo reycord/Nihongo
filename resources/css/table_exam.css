@@ -1,0 +1,273 @@
+#menu_luyen_giai_de
+{
+    width:100%;
+}
+#menu_luyen_giai_de .content
+{
+    width: 982px;
+    margin: 40px auto 0px auto;
+}
+#menu_luyen_giai_de .title_menu_giaidethi
+{
+    padding-top:35px;
+    margin-left:160px;
+    height:60px;
+}
+#menu_luyen_giai_de .title_menu_giaidethi .luyen
+{
+    font-size:24px;
+    font-weight:bold;
+    color:#993300;
+    display: block;
+    float: left;
+}
+#menu_luyen_giai_de .title_menu_giaidethi .chon
+{
+    color: #333333;
+    display: block;
+    float: left;
+    font-size: 18px;
+    margin-top:3px;
+}
+#menu_luyen_giai_de .title_menu_giaidethi .line
+{
+    background-color: #333333;
+    display: block;
+    float: left;
+    height: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 1px;
+}
+#menu_luyen_giai_de .title_menu_giaidethi .huongdan
+{
+
+    border: 1px solid #ca9630;
+    border-radius: 25px 25px 25px 25px;
+    display: block;
+    float: right;
+    font-size: 18px;
+    font-style: italic;
+    height: 33px;
+    padding-left: 30px;
+    padding-top: 13px;
+    width: 143px;
+    -moz-user-select: none;
+    box-shadow: 0 0 2px #B0822A;
+     -webkit-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    margin-right:13px;
+}
+#menu_luyen_giai_de .title_menu_giaidethi .huongdan:hover
+{
+    box-shadow: 0 0 6px #B0822A;
+}
+#menu_luyen_giai_de .title_menu_giaidethi .huongdan:active
+{
+    box-shadow: 0 0 0px #B0822A;
+}
+#menu_luyen_giai_de .loigioithieu
+{
+    background-color: #FFE6B5;
+    border-radius: 20px 20px 20px 20px;
+    color: #993300;
+    float: right;
+    font-size: 18px;
+    font-style: italic;
+    padding: 15px 15px 15px 50px;
+    text-align: center;
+    width: 808px;
+    margin-right:13px;
+}
+#menu_luyen_giai_de .loigioithieunoidung
+{
+    background-color: #FFE6B5;
+    border-radius: 20px 20px 20px 20px;
+    color: #993300;
+    float: right;
+    font-size: 18px;
+    font-style: italic;
+    padding: 15px 0px 15px 50px;
+    text-align: left;
+    width: 808px;
+    margin-right:13px;
+}
+#menu_luyen_giai_de .tg_babe
+{
+    float:left;
+    position: absolute;
+    top:-70px;
+    left:22px;
+}
+#menu_luyen_giai_de .menudethi
+{
+    width:915px;
+    margin:20px auto;
+    background-color:#fff;
+    height:500px;
+    position: relative;
+}
+#menu_luyen_giai_de .menudethi ul
+{
+    float:left;
+    width:175px;
+    margin-left:10px;
+
+
+}
+#menu_luyen_giai_de .menudethi ul.menun5
+{
+    margin-left:0px;
+    
+}
+#menu_luyen_giai_de .menudethi ul li
+{
+    display:block;
+    margin-bottom:1px;
+    font-size:17px;
+    position: relative;
+    height:45px;
+    -moz-user-select:none;
+}
+#menu_luyen_giai_de .menudethi ul li a
+{
+    width: 100%;
+    display: block;
+    height: 100%;
+    padding-left: 65px;
+    padding-top: 11px;
+    font-weight:bold;
+    -webkit-transition-duration: 0.4s;
+    -moz-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    -moz-user-select:none;
+    position: absolute;
+    top:0px;
+}
+#menu_luyen_giai_de .menudethi ul li.title
+{
+    color: #FFFFFF;
+    font-size: 26px;
+    height: 44px;
+    padding-left: 0;
+    padding-top: 12px;
+    text-align: center;
+}
+#menu_luyen_giai_de .menudethi ul li span
+{
+    display:block;
+}
+#menu_luyen_giai_de .menudethi ul.menun5 li.title
+{
+    background-color:#5f8639;
+}
+#menu_luyen_giai_de .menudethi ul.menun5 li a
+{
+    background-color:#dde7ce;
+    color:#5f8639;
+}
+#menu_luyen_giai_de .menudethi ul.menun5 li span
+{
+    background-position:0 -90px;
+    width:100%;
+    height:45px;
+}
+#menu_luyen_giai_de .menudethi ul.menun5 li a:hover
+{
+    background-color:#c7d6af;
+}
+#menu_luyen_giai_de .menudethi ul.menun4 li.title
+{
+    background-color:#996633;
+}
+#menu_luyen_giai_de .menudethi ul.menun4 li a
+{
+    background-color:#efe2bb;
+    color:#996633;
+}
+#menu_luyen_giai_de .menudethi ul.menun4 li span
+{
+    background-position:0 -135px;
+    width:100%;
+    height:45px;
+}
+#menu_luyen_giai_de .menudethi ul.menun4 li a:hover
+{
+    background-color:#decd98;
+}
+#menu_luyen_giai_de .menudethi ul.menun3 li.title
+{
+    background-color:#cc6666;
+}
+#menu_luyen_giai_de .menudethi ul.menun3 li a
+{
+    background-color:#fddddd;
+    color:#cc6666;
+}
+#menu_luyen_giai_de .menudethi ul.menun3 li span
+{
+    background-position:0 -180px;
+    width:100%;
+    height:45px;
+}
+#menu_luyen_giai_de .menudethi ul.menun3 li a:hover
+{
+    background-color:#f3c5c5;
+}
+#menu_luyen_giai_de .menudethi ul.menun2 li.title
+{
+    background-color:#379b9b;
+}
+#menu_luyen_giai_de .menudethi ul.menun2 li a
+{
+    background-color:#cfeeee;
+    color:#379b9b;
+}
+#menu_luyen_giai_de .menudethi ul.menun2 li span
+{
+    background-position:0 -45px;
+    width:100%;
+    height:45px;
+}
+#menu_luyen_giai_de .menudethi ul.menun2 li a:hover
+{
+    background-color:#addbdc;
+}
+#menu_luyen_giai_de .menudethi ul.menun1 li.title
+{
+    background-color:#656598;
+}
+#menu_luyen_giai_de .menudethi ul.menun1 li a
+{
+    background-color:#ded6f3;
+    color:#656598;
+}
+#menu_luyen_giai_de .menudethi ul.menun1 li span
+{
+    background-position:0 0px;
+    width:100%;
+    height:45px;
+}
+#menu_luyen_giai_de .menudethi ul.menun1 li a:hover
+{
+    background-color:#c5b9e5;
+}
+#menu_luyen_giai_de .menudethi ul.menun1 li:active a,
+#menu_luyen_giai_de .menudethi ul.menun2 li:active a,
+#menu_luyen_giai_de .menudethi ul.menun3 li:active a,
+#menu_luyen_giai_de .menudethi ul.menun4 li:active a,
+#menu_luyen_giai_de .menudethi ul.menun5 li:active a
+{
+    background-color:Transparent;
+}
+#menu_luyen_giai_de .bongmenu
+{
+    height: 400px;
+    margin-left: -2px;
+    margin-top: -375px;
+}
+#menu_luyen_giai_de #hinghuongdan
+{
+    margin-top:40px;
+}
