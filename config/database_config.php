@@ -5,7 +5,7 @@ $database_config = array(
 	"port" => "3306",
 	"name" => "nihongo",
 	"user" => "root",
-	"pass" => "123",
+	"pass" => "",
 );
 
 ?>
