@@ -24,8 +24,8 @@ class Database {
      * @return [MySQLDb] after open
      */
     private static function openDb($config){
-        $db = new PostgresDb();
-        //s$db = new MySQLDb();
+        // $db = new PostgresDb();
+        $db = new MySQLDb();
         $db->open($config["host"],$config["port"],$config["name"],$config["user"],$config["pass"]);
         return $db;
     }
